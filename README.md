@@ -15,6 +15,6 @@ primjenom konvolucijskih neuronskih mreža (CNN) i transfer learninga.
 - IEEE: Biometric Spoofing Fingerprint Dataset
 - Kaggle: Sokoto Coventry Fingerprint Dataset (SOCOFing)
 
-## Autori
+## Izradili
 - Luka Videc
 - Borna Šoštar
